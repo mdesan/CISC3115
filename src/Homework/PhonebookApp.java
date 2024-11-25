@@ -21,7 +21,6 @@ public class PhonebookApp {
         }
     }
 
-
     public static void pbApp() throws IOException {
 
         Scanner in = new Scanner(System.in);
